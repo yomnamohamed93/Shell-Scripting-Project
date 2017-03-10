@@ -1,2 +1,4 @@
 # Shell-Scripting-Project
-test test
+Team members :
+Somaya Gameel.
+Yomna Mohamed Mahmoud
